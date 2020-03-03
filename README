@@ -2,6 +2,7 @@ LinuxRogue
 README
 
 Compiling LinuxRogue on GCC 8 proved impossible due to a type mismatch in machdep.c, so that's all that differs in this version from Ashwin N's.
+-Thedarkb
 
 Original Original README Entries...
 ---
